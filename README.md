@@ -6,6 +6,6 @@
 and training neural networks, respectively.
 
 If there any suggestions, please connect
-(Yu Qi) B23090007@s.upc.edu.cn, and (Xi-Jun Liang) liangxijunsd@163.com
+(Qi Yu) B23090007@s.upc.edu.cn, and (Xi-Jun Liang) liangxijunsd@163.com
 
 SMaLL http://small.sem.upc.edu.cn
